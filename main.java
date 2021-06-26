@@ -297,7 +297,7 @@ class Memory {
     }
 }
 
-public class hw {
+public class page_replacement {
     public static void main(String args[]) {
         Memory memory = new Memory();
         memory.Algorithm_test();
